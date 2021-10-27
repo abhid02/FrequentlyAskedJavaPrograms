@@ -3,6 +3,13 @@ package JavaPrograms;
 import java.util.Scanner;
 
 public class PalindromeNumber_4 {
+	
+	/*
+	 * A palindrome number is a number that remains the same when digits are reversed. 
+	 * For example, the number 12321 is a palindrome number, 
+	 * but 1451 is not a palindrome number. Given a positive integer, 
+	 * the task is to check whether the number is palindrome or not.
+	 */
 
 	public static void main(String[] args) {
 		
